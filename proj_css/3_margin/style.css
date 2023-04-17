@@ -1,0 +1,23 @@
+.post {
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    padding-bottom: 10px;
+    /* пиши код здесь */
+  }
+  
+  .post__header {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    /* пиши код здесь */
+  }
+  
+  .post__content {
+     margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* пиши код здесь */
+  }

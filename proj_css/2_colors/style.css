@@ -1,0 +1,45 @@
+body {
+    background: #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+  }
+  
+  .block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 16px;
+    background: #fff;
+    font-size: 32px;
+  }
+  
+  .html-color {
+    background-color: white;
+  }
+  
+  .hex-color {
+    background: #68c9dc;
+  }
+  
+  .rgb-color {
+    background: rgba(207,68,29,255);
+  }
+  
+  .rgba-color {
+    background: rgba(207,68,29,255);
+  }
+  
+  .hsl-color {
+    background-color: hsl(54, 75%, 51%);
+  }
+  
+  .hsla-color {
+    background-color: hsl(0, 66%, 44%);
+  }
+  
+  .image {
+    background-image: url("Main_Street.jpg");
+  }
